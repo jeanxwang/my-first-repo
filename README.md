@@ -5,3 +5,5 @@ NPM     : 2206024726
 Kelas   : PBP A
 
 Hobi    : Menghalu
+
+Jurusan : Ilmu Komputer
